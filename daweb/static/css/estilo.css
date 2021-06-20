@@ -1,0 +1,21 @@
+header {
+    text-align: left;
+    background-color: rgb(23, 23, 23);
+    color: rgb(237, 237, 237);
+    height: auto;
+}
+
+.centrado {
+    text-align: center;
+}
+.derecho {
+    text-align: right;
+}
+.cantidades {
+    width: 50px;
+}
+.btnImages {
+    width: 10px;
+    background-color: black;
+    color: greenyellow;
+}
